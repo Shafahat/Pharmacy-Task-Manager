@@ -1,0 +1,11 @@
+ID: 1, Name: 2, Unit: 2 pills in 1 box, Price: 2 $, Production Date: 1/7/2021 8:30:57 PM, Expiration Date: 1/7/2021 8:30:57 PM, Type: Tablet
+ID: 2, Name: 3, Unit: 3 m^3 in 1 bottle, Price: 3 $, Production Date: 1/7/2021 8:31:17 PM, Expiration Date: 1/7/2021 8:31:17 PM, Type: Liquid
+ID: 3, Name: 4, Unit: 4 m^3 in 1 bottle, Price: 4 $, Production Date: 1/7/2021 8:31:21 PM, Expiration Date: 1/7/2021 8:31:21 PM, Type: Liquid
+ID: 4, Name: 55, Unit: 5 pieces in 1 pack, Price: 5 $, Production Date: 1/7/2021 8:31:25 PM, Expiration Date: 1/7/2021 8:31:25 PM, Type: Syringe
+ID: 5, Name: 2, Unit: 4 pills in 1 box, Price: 3 $, Production Date: 1/7/2021 9:08:59 PM, Expiration Date: 1/7/2021 9:08:59 PM, Type: Tablet
+ID: 6, Name: 6, Unit: 6 pills in 1 box, Price: 6 $, Production Date: 1/7/2021 9:09:40 PM, Expiration Date: 1/7/2021 9:09:40 PM, Type: Tablet
+ID: 7, Name: 7, Unit: 7 pills in 1 box, Price: 7 $, Production Date: 1/7/2021 9:10:16 PM, Expiration Date: 1/7/2021 9:10:16 PM, Type: Tablet
+ID: 8, Name: 4, Unit: 6 pills in 1 box, Price: 5 $, Production Date: 1/7/2021 10:07:08 PM, Expiration Date: 1/7/2021 10:07:08 PM, Type: Tablet
+ID: 9, Name: 2, Unit: 2 pills in 1 box, Price: 22 $, Production Date: 1/7/2021 10:23:47 PM, Expiration Date: 1/7/2021 10:23:47 PM, Type: Tablet
+ID: 10, Name: tablet, Unit: 4 pills in 1 box, Price: 2 $, Production Date: 1/7/2021 10:38:40 PM, Expiration Date: 1/7/2021 10:38:40 PM, Type: Tablet
+ID: 1, Name: w, Unit: 2 pills in 1 box, Price: 2 $, Production Date: 1/7/2021 10:41:34 PM, Expiration Date: 1/7/2021 10:41:34 PM, Type: Tablet

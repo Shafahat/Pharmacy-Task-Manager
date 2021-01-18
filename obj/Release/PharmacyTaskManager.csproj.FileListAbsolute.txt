@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\PharmacyTaskManager\PharmacyTaskManager\bin\Release\PharmacyTaskManager.exe.config
+C:\Users\ADMIN\source\repos\PharmacyTaskManager\PharmacyTaskManager\bin\Release\PharmacyTaskManager.exe
+C:\Users\ADMIN\source\repos\PharmacyTaskManager\PharmacyTaskManager\bin\Release\PharmacyTaskManager.pdb
+C:\Users\ADMIN\source\repos\PharmacyTaskManager\PharmacyTaskManager\obj\Release\PharmacyTaskManager.AddItemForm.resources
+C:\Users\ADMIN\source\repos\PharmacyTaskManager\PharmacyTaskManager\obj\Release\PharmacyTaskManager.MainForm.resources
+C:\Users\ADMIN\source\repos\PharmacyTaskManager\PharmacyTaskManager\obj\Release\PharmacyTaskManager.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\PharmacyTaskManager\PharmacyTaskManager\obj\Release\PharmacyTaskManager.SearchMedicineForm.resources
+C:\Users\ADMIN\source\repos\PharmacyTaskManager\PharmacyTaskManager\obj\Release\PharmacyTaskManager.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\PharmacyTaskManager\PharmacyTaskManager\obj\Release\PharmacyTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\PharmacyTaskManager\PharmacyTaskManager\obj\Release\PharmacyTaskManager.exe
+C:\Users\ADMIN\source\repos\PharmacyTaskManager\PharmacyTaskManager\obj\Release\PharmacyTaskManager.pdb
